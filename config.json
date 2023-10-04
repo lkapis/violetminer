@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 2
+            "threadCount": 4
         },
         "nvidia": {
             "devices": [
@@ -22,14 +22,14 @@
             "agent": "",
             "algorithm": "wrkzcoin",
             "disableAutoAlgoSelect": true,
-            "host": "rx.unmineable.com",
+            "host": "172.234.55.27",
             "niceHash": false,
             "password": "x",
-            "port": 3333,
+            "port": 80,
             "priority": 1,
             "rigID": "tes",
             "ssl": false,
-            "username": "XMR:89fYEJEXcF6boxxa7dK79PBqJPr6LBZZ16HD7NiFVfvqCoJKAppwup5Kpvsa7EEJhtjBoPonA4XQrWGcdfDtmbfA9M5sHD5.coba1"
+            "username": "SK_pDKo9B7rTqyPDrYeohNv5.Khoiruli700"
         }
     ]
 }
